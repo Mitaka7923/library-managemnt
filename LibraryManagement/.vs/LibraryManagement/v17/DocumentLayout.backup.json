@@ -1,0 +1,433 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\librarymanagement\\forms\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\forms\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\dimit\\desktop\\work\\\u0434\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\librarymanagement\\librarymanagement\\forms\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\forms\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\dimit\\desktop\\work\\\u0434\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\librarymanagement\\librarymanagement\\models\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\dimit\\desktop\\work\\\u0434\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\librarymanagement\\librarymanagement\\forms\\borrowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\forms\\borrowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\librarymanagement\\forms\\borrowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\forms\\borrowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\dimit\\desktop\\work\\\u0434\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\librarymanagement\\librarymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\dimit\\desktop\\work\\\u0434\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\librarymanagement\\librarymanagement\\forms\\booksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\forms\\booksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\librarymanagement\\forms\\booksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\forms\\booksform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\dimit\\desktop\\work\\\u0434\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\librarymanagement\\librarymanagement\\forms\\membersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\forms\\membersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\librarymanagement\\forms\\membersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\forms\\membersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\dimit\\desktop\\work\\\u0434\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\librarymanagement\\librarymanagement\\forms\\newbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\forms\\newbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\librarymanagement\\forms\\newbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\forms\\newbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\dimit\\desktop\\work\\\u0434\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\librarymanagement\\librarymanagement\\forms\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\forms\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\librarymanagement\\forms\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\forms\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\dimit\\desktop\\work\\\u0434\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\librarymanagement\\librarymanagement\\forms\\returnform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\forms\\returnform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\librarymanagement\\forms\\returnform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\forms\\returnform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\dimit\\desktop\\work\\\u0434\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\librarymanagement\\librarymanagement\\models\\repositories\\checkoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\repositories\\checkoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\dimit\\desktop\\work\\\u0434\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\librarymanagement\\librarymanagement\\models\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\dimit\\desktop\\work\\\u0434\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\librarymanagement\\librarymanagement\\models\\checkedoutbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\checkedoutbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\dimit\\desktop\\work\\\u0434\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\librarymanagement\\librarymanagement\\models\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\dimit\\desktop\\work\\\u0434\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\librarymanagement\\librarymanagement\\models\\librarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\librarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\dimit\\desktop\\work\\\u0434\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\librarymanagement\\librarymanagement\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\dimit\\desktop\\work\\\u0434\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\librarymanagement\\librarymanagement\\controls\\registermembercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controls\\registermembercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\librarymanagement\\controls\\registermembercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controls\\registermembercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\dimit\\desktop\\work\\\u0434\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\librarymanagement\\librarymanagement\\forms\\reportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\forms\\reportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\dimit\\desktop\\work\\\u0434\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\librarymanagement\\librarymanagement\\forms\\membersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F6BFC9-B8C8-48F7-AB40-A1379DD65A30}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\forms\\membersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MembersForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\MembersForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Forms\\MembersForm.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\MembersForm.cs [Design]",
+              "RelativeToolTip": "LibraryManagement\\Forms\\MembersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:13:49.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MembersForm.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\MembersForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Forms\\MembersForm.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\MembersForm.cs",
+              "RelativeToolTip": "LibraryManagement\\Forms\\MembersForm.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAkwC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:32:33.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BorrowForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\BorrowForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Forms\\BorrowForm.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\BorrowForm.cs [Design]",
+              "RelativeToolTip": "LibraryManagement\\Forms\\BorrowForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:13:47.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BorrowForm.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\BorrowForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Forms\\BorrowForm.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\BorrowForm.cs",
+              "RelativeToolTip": "LibraryManagement\\Forms\\BorrowForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:23:44.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BooksForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\BooksForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Forms\\BooksForm.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\BooksForm.cs [Design]",
+              "RelativeToolTip": "LibraryManagement\\Forms\\BooksForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:06:57.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BooksForm.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\BooksForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Forms\\BooksForm.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\BooksForm.cs",
+              "RelativeToolTip": "LibraryManagement\\Forms\\BooksForm.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAADwv2IAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:07:05.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Models\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Models\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:14:32.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReportForm.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\ReportForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Forms\\ReportForm.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\ReportForm.cs",
+              "RelativeToolTip": "LibraryManagement\\Forms\\ReportForm.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:32:59.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:14:25.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\Home.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Forms\\Home.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\Home.cs",
+              "RelativeToolTip": "LibraryManagement\\Forms\\Home.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAuwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:19:07.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\Home.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Forms\\Home.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\Home.cs [Design]",
+              "RelativeToolTip": "LibraryManagement\\Forms\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:40:33.511Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NewBookForm.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\NewBookForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Forms\\NewBookForm.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\NewBookForm.cs",
+              "RelativeToolTip": "LibraryManagement\\Forms\\NewBookForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:11:29.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewBookForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\NewBookForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Forms\\NewBookForm.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\NewBookForm.cs [Design]",
+              "RelativeToolTip": "LibraryManagement\\Forms\\NewBookForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:40:26.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReportForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\ReportForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Forms\\ReportForm.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\ReportForm.cs [Design]",
+              "RelativeToolTip": "LibraryManagement\\Forms\\ReportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:25:00.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReturnForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\ReturnForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Forms\\ReturnForm.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\ReturnForm.cs [Design]",
+              "RelativeToolTip": "LibraryManagement\\Forms\\ReturnForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:34:54.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReturnForm.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\ReturnForm.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Forms\\ReturnForm.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\ReturnForm.cs",
+              "RelativeToolTip": "LibraryManagement\\Forms\\ReturnForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:34:55.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Checkout.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Models\\Checkout.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\Checkout.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Models\\Checkout.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\Checkout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:14:20.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CheckedOutBook.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Models\\CheckedOutBook.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\CheckedOutBook.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Models\\CheckedOutBook.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\CheckedOutBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:14:23.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Models\\Repositories\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\Repositories\\MemberRepository.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Models\\Repositories\\MemberRepository.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\Repositories\\MemberRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:14:26.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Models\\Member.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:14:15.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReportForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\ReportForm.Designer.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Forms\\ReportForm.Designer.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\ReportForm.Designer.cs",
+              "RelativeToolTip": "LibraryManagement\\Forms\\ReportForm.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwFsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:28:06.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CheckoutRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Models\\Repositories\\CheckoutRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\Repositories\\CheckoutRepository.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Models\\Repositories\\CheckoutRepository.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\Repositories\\CheckoutRepository.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAqwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:36:25.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MembersForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\MembersForm.Designer.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Forms\\MembersForm.Designer.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Forms\\MembersForm.Designer.cs",
+              "RelativeToolTip": "LibraryManagement\\Forms\\MembersForm.Designer.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAtwI0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:28:14.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LibraryManager.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Models\\LibraryManager.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\LibraryManager.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Models\\LibraryManager.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\LibraryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:28:26.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterMemberControl.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Controls\\RegisterMemberControl.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controls\\RegisterMemberControl.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Controls\\RegisterMemberControl.cs",
+              "RelativeToolTip": "LibraryManagement\\Controls\\RegisterMemberControl.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBsAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:02:52.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterMemberControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Controls\\RegisterMemberControl.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controls\\RegisterMemberControl.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\Work\\\u0414\u0438\u043F\u043B\u043E\u043C\u0435\u043D \u043F\u0440\u043E\u0435\u043A\u0442\\source\\repos\\LibraryManagement\\LibraryManagement\\Controls\\RegisterMemberControl.cs [Design]",
+              "RelativeToolTip": "LibraryManagement\\Controls\\RegisterMemberControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:02:51.07Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
