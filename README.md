@@ -45,7 +45,7 @@ The **Library Management System** is a software solution designed to help local 
 ## Getting Started
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/library-management-system.git
+    git clone https://github.com/Mitaka7923/library-management-system.git
     ```
 2. Open the project in **Visual Studio**.  
 3. Build and run the application.  
